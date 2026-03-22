@@ -61,7 +61,7 @@ git@github.com:JosephXu20/FinalProject-main.git
 ##  Placement Team Login Details
 
 - Email: admin@admin.com
-- Password: admin
+- Password: admin123
 
 ## Registered Students' Login Details
 
